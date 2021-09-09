@@ -1,2 +1,2 @@
-# jhcourse_finalrproject
-Data Visualization Final Project 
+# John Hopkings Data Visualization Course 
+## Final Project
